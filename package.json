@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/katai5plate/tweet-analyzer#readme",
   "dependencies": {
+    "fs-extra": "^8.1.0",
+    "japanese-holidays": "^1.0.8",
+    "moment": "^2.24.0",
     "twitter": "^1.7.1"
   }
 }
